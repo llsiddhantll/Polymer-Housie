@@ -1,0 +1,23 @@
+html,body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.mainBtn{
+  color: #ffffff;
+  background-color: #4CAF50;
+}
+
+.label{
+  color: #000000;
+}
+
+.number{
+  text-align: center;
+  margin: 5px;
+  padding: 8px;
+  background-image: url('/images/not-used.svg');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  color: #FFFFFF;
+}
